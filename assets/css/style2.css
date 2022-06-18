@@ -68,7 +68,7 @@ a {
 
 .footer {
     background-color: #4aaaa5;
-    margin: 450px -10px 0px -10px;
+    margin: 220px -10px 0px -10px;
     padding: 10px 0px 0px;
 }
 
@@ -89,7 +89,7 @@ label {
 }
 
 form {
-    margin: 20px 0px;
+    margin: 5px 0px;
 }
 
 input[type=text] {

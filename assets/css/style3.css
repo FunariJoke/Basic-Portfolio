@@ -68,7 +68,7 @@ a {
 
 .footer {
     background-color: #4aaaa5;
-    margin: 450px -10px 0px -10px;
+    margin: 150px -10px 0px -10px;
     padding: 10px 0px 0px;
 }
 
@@ -117,4 +117,10 @@ button {
     margin: 10px 0px 0px;
     cursor: pointer;
     font-size: large;
+}
+ 
+/* I have literally zero idea how to add text onto these images so ¯\_(ツ)_/¯ */
+img {
+    margin: 10px 10px 0px 10px;
+    padding: 15px;
 }
