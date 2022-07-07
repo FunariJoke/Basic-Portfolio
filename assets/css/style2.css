@@ -1,13 +1,13 @@
 html {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/bananas.png);
 }
 
 header {
-    background-color: #ffffff;
+    background-color: lightsteelblue;
     margin: -10px;
-    padding: 25px;
+    padding: 25px 0px;
     border-style: solid;
     border-color: #cccccc;
     border-width: 1px;
@@ -15,13 +15,13 @@ header {
 
 .name {
     float: left;
-    background-color: #4aaaa5;
+    background-color: slategray;
     display: block;
     color: white;
     text-align: center;
     padding: 14px 26px;
     margin-top: -25px;
-    margin-left: 620px;
+    margin-left: 200px;
 }
 
 li {
@@ -30,7 +30,7 @@ li {
     margin-top: -15px;
     list-style: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
+    font-size: small;
 }
 
 .divider {
@@ -42,7 +42,7 @@ li {
 }
 
 ul {
-margin-right: 620px;
+    margin-right: 150px;
 }
 
 a {
@@ -60,6 +60,7 @@ a {
     margin-top: 50px;
     padding: 10px 50px 50px 50px;
     background-color: #ffffff;
+    border-radius: 25px;
 }
 
 .title {
@@ -67,8 +68,8 @@ a {
 }
 
 .footer {
-    background-color: #4aaaa5;
-    margin: 220px -10px 0px -10px;
+    background-color: slategray;
+    margin: 150px -10px 0px -10px;
     padding: 10px 0px 0px;
 }
 
